@@ -2,6 +2,15 @@
 
 A full-stack web application to search for available hotel rooms by date range and room type, then simulate a booking. Built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 
+## 🔗 Live Demo
+
+| Service  | URL |
+|----------|-----|
+| **Frontend** | [hotel-room-availability-checker.vercel.app](https://hotel-room-availability-checker.vercel.app) |
+| **Backend API** | [hotel-availability-api-5stf.onrender.com](https://hotel-availability-api-5stf.onrender.com/api/health) |
+
+> **Note:** The Render free tier may take ~30 seconds on first load due to cold starts.
+
 ---
 
 ## Features
