@@ -4,6 +4,8 @@ Full-stack hotel booking app — search rooms by date/type, book them, manage ev
 
 **Live:** [hotel-room-availability-checker.vercel.app](https://hotel-room-availability-checker.vercel.app) | **API:** [hotel-availability-api-5stf.onrender.com](https://hotel-availability-api-5stf.onrender.com/api/health)
 
+**Demo Video:** [Watch on Loom](https://www.loom.com/share/89c1e436d8f44f61a83662c6a0f09bdf)
+
 *(Render free tier — first load might take ~30s to wake up)*
 
 **Tech:** React, Node/Express, MongoDB
